@@ -1,0 +1,20 @@
+Instrucciones para usar en modo gráfico la herramienta
+
+____________COMPILAR_______________
+
+1º) Dar los permisos necesarios a todos los archivos
+2º) Modificar el build.properties indicando la ruta donde esta instalado java 
+     Para ver la ruta donde esta instalado java se puede ver así:
+           echo $JAVA_HOME  (en linux)
+           echo %JAVA_HOME% (en windows)
+3º) Ejecutar el Make
+	./Make.sh (linux)
+	Make (Windows)
+
+____________EJECUTAR________
+
+1º)
+         ./HerramientasIA.sh (Linux)
+         HerramientasIA (Windows)
+
+

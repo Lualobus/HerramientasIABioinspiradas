@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--JBuilder XML Project-->
+<project>
+  <property category="debug.0" name="SmartStepRedefineClasses" value="0"/>
+  <property category="debug.0" name="SmartStepSkipStaticInitializers" value="0"/>
+  <property category="debug.0" name="SmartStepSkipSynthetics" value="0"/>
+  <property category="debug.1" name="ShowBreakpointInNoTracingClass" value="0"/>
+  <property category="generalFormatting2" name="overrideBasicFormatting" value="1"/>
+  <property category="idl" name="ProcessIDL" value="false"/>
+  <property category="javaFormatting" name="EventStyle" value="0"/>
+  <property category="javaFormatting" name="InstanceVisibility" value="2"/>
+  <property category="javaFormatting" name="alignMultilineAssign" value="1"/>
+  <property category="javaFormatting" name="arrayInitDataOnNewLine" value="0"/>
+  <property category="javaFormatting" name="catchOnNewLine" value="0"/>
+  <property category="javaFormatting" name="elseOnNewLine" value="0"/>
+  <property category="javaFormatting" name="extendsOnNewLine" value="0"/>
+  <property category="javaFormatting" name="finallyOnNewLine" value="0"/>
+  <property category="javaFormatting" name="implementsOnNewLine" value="0"/>
+  <property category="javaFormatting" name="packagePrefixGroups" value="java;BLANK_LINE;javax;BLANK_LINE;com.borland.primetime;BLANK_LINE;com.borland.jbuilder;BLANK_LINE;(*)"/>
+  <property category="javaFormatting" name="preserveLineBreaks" value="0"/>
+  <property category="javaFormatting" name="preservedBlankLinesInCode" value="2"/>
+  <property category="javaFormatting" name="preservedBlankLinesInDecl" value="2"/>
+  <property category="javaFormatting" name="spaceBeforeLparen" value="0"/>
+  <property category="javaFormatting" name="whileOnNewLine" value="0"/>
+  <property category="javaFormatting" name="wrapAtColumn" value="380"/>
+  <property category="javadoc" name="custom.tags.1" value="todo;a;To Do:"/>
+  <property category="module" name="ProjectConvertedToEnsureModulesHaveSupportedFeatures" value="1"/>
+  <property category="module" name="ProjectConvertedToUseFilesAndDependenciesAsDefaultContent" value="1"/>
+  <property category="module" name="ProjectConvertedToUseProperModuleDefaults" value="1"/>
+  <property category="module" name="projectConvertedFromModuleExtensionsToModuleFileTypes" value="1"/>
+  <property category="optimize.0" name="OptimizableType" value="intuitive.ide.borland.jb10.ProfilerBootstrap"/>
+  <property category="optimize.0" name="oicc.FilterFile" value="C:\Documents and Settings\Fernando Alonso\Escritorio\HerramientasIA\HerramientasIA.oif"/>
+  <property category="optimize.0" name="oipr.FilterFile" value="C:\Documents and Settings\Fernando Alonso\Escritorio\HerramientasIA\HerramientasIA.oif"/>
+  <property category="optimize.0" name="oira.FilterFile" value="C:\Documents and Settings\Fernando Alonso\Escritorio\HerramientasIA\HerramientasIA.oif"/>
+  <property category="optimize.1" name="OptimizableType" value="intuitive.ide.borland.jb10.ThreadDBootstrap"/>
+  <property category="optimize.1" name="oicc.FilterFile" value="C:\Documents and Settings\Fernando Alonso\Escritorio\HerramientasIA\HerramientasIA.oif"/>
+  <property category="optimize.1" name="oipr.FilterFile" value="C:\Documents and Settings\Fernando Alonso\Escritorio\HerramientasIA\HerramientasIA.oif"/>
+  <property category="optimize.1" name="oira.FilterFile" value="C:\Documents and Settings\Fernando Alonso\Escritorio\HerramientasIA\HerramientasIA.oif"/>
+  <property category="optimize.2" name="OptimizableType" value="intuitive.ide.borland.jb10.ProfilerBootstrap"/>
+  <property category="optimize.2" name="oicc.FilterFile" value="C:\Documents and Settings\Fernando Alonso\Escritorio\HerramientasIA\HerramientasIA.oif"/>
+  <property category="optimize.2" name="oipr.AutoStartCPU" value="1"/>
+  <property category="optimize.2" name="oipr.EnableUnitTest" value="0"/>
+  <property category="optimize.2" name="oipr.FilterFile" value="C:\Documents and Settings\Fernando Alonso\Escritorio\HerramientasIA\HerramientasIA.oif"/>
+  <property category="optimize.2" name="oira.AttachHost" value="localhost"/>
+  <property category="optimize.2" name="oira.FilterFile" value="C:\Documents and Settings\Fernando Alonso\Escritorio\HerramientasIA\HerramientasIA.oif"/>
+  <property category="runtime" name="DefaultConfiguration" value="-1"/>
+  <property category="runtime.0" name="BuildTargetOnRun" value="com.borland.jbuilder.build.ProjectBuilder$ProjectBuildAction;make"/>
+  <property category="runtime.0" name="ConfigurationName" value="HerramientasIA"/>
+  <property category="runtime.0" name="RunnableType" value="com.borland.jbuilder.runtime.ApplicationRunner"/>
+  <property category="runtime.0" name="application.class" value="VentanaBienvenida"/>
+  <property category="runtime.0" name="custom.init_required" value="0"/>
+  <property category="runtime.0" name="custom.jdk" value="java version 1.4.2_04-b05"/>
+  <property category="runtime.0" name="custom.required.1" value="JBCL"/>
+  <property category="runtime.0" name="enable.tcpmonitor" value="0"/>
+  <property category="runtime.0" name="enable.wsimonitor" value="0"/>
+  <property category="runtime.0" name="tcpmonitor.listenport" value=""/>
+  <property category="runtime.0" name="tcpmonitor.targethost" value=""/>
+  <property category="runtime.0" name="tcpmonitor.targetport" value=""/>
+  <property category="runtime.0" name="wsimonitor.listenport" value=""/>
+  <property category="runtime.0" name="wsimonitor.logfile" value=""/>
+  <property category="runtime.0" name="wsimonitor.targethost" value=""/>
+  <property category="runtime.0" name="wsimonitor.targetport" value=""/>
+  <property category="runtime.1" name="BuildTargetOnRun" value="com.borland.jbuilder.build.ProjectBuilder$ProjectBuildAction;make"/>
+  <property category="runtime.1" name="ConfigurationName" value="RNA"/>
+  <property category="runtime.1" name="RunnableType" value="com.borland.jbuilder.runtime.ApplicationRunner"/>
+  <property category="runtime.1" name="application.class" value="RNA.InterfazGrafica.InterfaceGrafica"/>
+  <property category="runtime.2" name="BuildTargetOnRun" value="com.borland.jbuilder.build.ProjectBuilder$ProjectBuildAction;make"/>
+  <property category="runtime.2" name="ConfigurationName" value="PSO"/>
+  <property category="runtime.2" name="RunnableType" value="com.borland.jbuilder.runtime.ApplicationRunner"/>
+  <property category="runtime.2" name="application.class" value="OptimizadorEnjambreParticulas.InterfaceGrafica.InterfazGrafica"/>
+  <property category="runtime.3" name="BuildTargetOnRun" value="com.borland.jbuilder.build.ProjectBuilder$ProjectBuildAction;make"/>
+  <property category="runtime.3" name="ConfigurationName" value="HerramientasIA"/>
+  <property category="runtime.3" name="RunnableType" value="com.borland.jbuilder.runtime.ApplicationRunner"/>
+  <property category="runtime.3" name="application.class" value="VentanaBienvenida"/>
+  <property category="runtime.3" name="custom.jdk" value="java version 1.5.0-b64"/>
+  <property category="runtime.3" name="custom.override_jdk" value="1"/>
+  <property category="runtime.4" name="BuildTargetOnRun" value="com.borland.jbuilder.build.ProjectBuilder$ProjectBuildAction;make"/>
+  <property category="runtime.4" name="ConfigurationName" value="TempleSimulado"/>
+  <property category="runtime.4" name="RunnableType" value="com.borland.jbuilder.runtime.ApplicationRunner"/>
+  <property category="runtime.4" name="application.class" value="TempleSimulado.InterfaceGrafica.InterfazGrafica"/>
+  <property category="runtime.5" name="BuildTargetOnRun" value="com.borland.jbuilder.build.ProjectBuilder$ProjectBuildAction;make"/>
+  <property category="runtime.5" name="ConfigurationName" value="ACO"/>
+  <property category="runtime.5" name="RunnableType" value="com.borland.jbuilder.runtime.ApplicationRunner"/>
+  <property category="runtime.5" name="application.class" value="ColoniaHormigas.InterfaceGrafica.InterfazGrafica"/>
+  <property category="serverservices" name="WarnedOfLegacyToCurrentServerChange" value="1"/>
+  <property category="serverservices" name="disabled.services" value="connector;jdatastore"/>
+  <property category="serverservices" name="single.server.name" value="Tomcat 4.0"/>
+  <property category="sys" name="AuthorLabel" value="@author"/>
+  <property category="sys" name="BackupPath" value="bak"/>
+  <property category="sys" name="CheckStable" value="1"/>
+  <property category="sys" name="Company" value=""/>
+  <property category="sys" name="CompanyLabel" value="Company:"/>
+  <property category="sys" name="Copyright" value="Copyright (c) 2005"/>
+  <property category="sys" name="CopyrightLabel" value="Copyright:"/>
+  <property category="sys" name="DefaultPath" value="src"/>
+  <property category="sys" name="Description" value=""/>
+  <property category="sys" name="DescriptionLabel" value="Description:"/>
+  <property category="sys" name="DocPath" value="doc"/>
+  <property category="sys" name="ExcludeClassEnabled" value="0"/>
+  <property category="sys" name="IncludeTestPath" value="1"/>
+  <property category="sys" name="InstanceVisibility" value="2"/>
+  <property category="sys" name="JDK" value="java version 1.5.0-b64"/>
+  <property category="sys" name="JvmVersion" value="1.4"/>
+  <property category="sys" name="LastTag" value="0"/>
+  <property category="sys" name="Libraries" value="JBCL;lib/looks-2.0.4.jar;lib/BorlandLookAndFeel.jar;lib/FAMUtilidades.jar"/>
+  <property category="sys" name="MakeStable" value="0"/>
+  <property category="sys" name="OutPath" value="classes"/>
+  <property category="sys" name="SourcePath" value="src;test"/>
+  <property category="sys" name="SourceVersion" value="1.4"/>
+  <property category="sys" name="TestPath" value="test"/>
+  <property category="sys" name="Title" value=""/>
+  <property category="sys" name="TitleLabel" value="Title:"/>
+  <property category="sys" name="Version" value="1.0"/>
+  <property category="sys" name="VersionLabel" value="@version"/>
+  <property category="sys" name="WorkingDirectory" value="."/>
+  <property category="sys" name="uidesign.size.ColoniaHormigas.InterfaceGrafica.InterfazGrafica" value="645,456"/>
+  <property category="sys" name="uidesign.size.HerramientasIA" value="781,653"/>
+  <property category="sys" name="uidesign.size.OptimizadorEnjambreParticulas.InterfaceGrafica.InterfazGrafica" value="516,300"/>
+  <property category="sys" name="uidesign.size.RNA.InterfaceGrafica" value="854,428"/>
+  <property category="sys" name="uidesign.size.RNA.InterfazGrafica.InterfaceGrafica" value="765,606"/>
+  <property category="sys" name="uidesign.size.TempleSimulado.InterfaceGrafica.InterfazGrafica" value="662,480"/>
+  <property category="sys" name="uidesign.size.Ventana" value="393,300"/>
+  <property category="sys" name="uidesign.size.simuladorbiologico.InterfazGrafica.EditorClases" value="425,326"/>
+  <property category="sys" name="uidesign.size.simuladorbiologico.InterfazGrafica.EditorProblemas" value="639,464"/>
+  <property category="sys" name="uidesign.size.simuladorbiologico.InterfazGrafica.ElegirFuente" value="400,125"/>
+  <property category="sys" name="uidesign.size.simuladorbiologico.InterfazGrafica.InterfaceGrafica" value="813,578"/>
+  <property category="sys" name="uidesign.size.simuladorbiologico.InterfazGrafica.Ventantia" value="429,328"/>
+  <property category="xpdev.refactory" name="assertKeywordSupport" value="-1"/>
+  <property category="xpdev.refactory" name="cache path" value="C:\Documents and Settings\Fernando Alonso\.jbuilder2006\.refactorIT\Cache\cache_842743370"/>
+  <node name="Export to Ant" type="Ant">
+    <property category="archiving" name="buildWithProject" value="0"/>
+    <property category="generate" name="error_behavior" value="1"/>
+  </node>
+  <node name="HerramientasIA" type="Archive">
+    <property category="archiving" name="archiverClass" value="com.borland.jbuilder.wizard.archive.ExecutableArchiver"/>
+    <property category="archiving" name="buildWithProject" value="0"/>
+    <property category="archiving" name="contentRules.1" value="I:**/*.*"/>
+    <property category="archiving" name="executableEnabled.1" value="0"/>
+    <property category="archiving" name="executableEnabled.2" value="0"/>
+    <property category="archiving" name="executableEnabled.3" value="0"/>
+    <property category="archiving" name="executableEnabled.4" value="0"/>
+    <property category="archiving" name="executableEnabled.5" value="0"/>
+    <property category="archiving" name="executableFiles.1" value=""/>
+    <property category="archiving" name="executableFiles.2" value=""/>
+    <property category="archiving" name="executableFiles.3" value=""/>
+    <property category="archiving" name="executableFiles.4" value=""/>
+    <property category="archiving" name="executableFiles.5" value=""/>
+    <property category="archiving" name="includeAll" value="1"/>
+    <property category="archiving" name="libraryStates.1" value="2:JBCL"/>
+    <property category="archiving" name="libraryStates.2" value="3:Data Express"/>
+    <property category="archiving" name="libraryStates.3" value="2:lib/looks-2.0.4.jar"/>
+    <property category="archiving" name="libraryStates.4" value="2:lib/BorlandLookAndFeel.jar"/>
+    <property category="archiving" name="manifestConfigFile" value="0"/>
+    <property category="archiving" name="manifestMainClass" value="VentanaBienvenida"/>
+    <property category="archiving" name="obfuscator" value="RetroGuard for J2ME"/>
+    <property category="archiving" name="targetCompressed" value="1"/>
+    <property category="archiving" name="targetPath" value="HerramientasIA.jar"/>
+    <property category="archiving" name="usingRules" value="1"/>
+  </node>
+</project>
